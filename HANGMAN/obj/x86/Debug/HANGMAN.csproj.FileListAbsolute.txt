@@ -1,0 +1,11 @@
+E:\STUDY\3.2\LAB\SD\Projects\HANGMAN\HANGMAN\bin\Debug\HANGMAN.exe
+E:\STUDY\3.2\LAB\SD\Projects\HANGMAN\HANGMAN\bin\Debug\HANGMAN.pdb
+E:\STUDY\3.2\LAB\SD\Projects\HANGMAN\HANGMAN\obj\x86\Debug\HANGMAN.HangmanGameForm.resources
+E:\STUDY\3.2\LAB\SD\Projects\HANGMAN\HANGMAN\obj\x86\Debug\HANGMAN.Properties.Resources.resources
+E:\STUDY\3.2\LAB\SD\Projects\HANGMAN\HANGMAN\obj\x86\Debug\HANGMAN.csproj.GenerateResource.Cache
+E:\STUDY\3.2\LAB\SD\Projects\HANGMAN\HANGMAN\obj\x86\Debug\HANGMAN.exe
+E:\STUDY\3.2\LAB\SD\Projects\HANGMAN\HANGMAN\obj\x86\Debug\HANGMAN.pdb
+E:\STUDY\3.2\LAB\SD\Projects\HANGMAN\HANGMAN\obj\x86\Debug\HANGMAN.csprojResolveAssemblyReference.cache
+E:\STUDY\3.2\LAB\SD\Projects\HANGMAN\HANGMAN\obj\x86\Debug\HANGMAN.MainMenu.resources
+E:\STUDY\3.2\LAB\SD\Projects\HANGMAN\HANGMAN\obj\x86\Debug\HANGMAN.GameOver.resources
+E:\STUDY\3.2\LAB\SD\Projects\HANGMAN\HANGMAN\obj\x86\Debug\HANGMAN.Option.resources
